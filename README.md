@@ -14,7 +14,7 @@ It has [Netlify CMS](https://www.netlifycms.org/) built in and can deploy to [Ne
 - Pre-configured CMS
 - Easy to use and deploy
 - Fully responsive
-- testing 123
+- testing 1234
 
 # Usage
 The simplest way to use this template is to deploy it on Netlify using this button:
